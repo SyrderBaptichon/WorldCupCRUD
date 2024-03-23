@@ -1,4 +1,0 @@
-Notre groupe est composé de : Matheo Beaudouin, Syrder Baptichon, Amine Cheikh.
-
-Le fichier à configurer dans le dossier PHP et le fichier est connexion.php
-
